@@ -8,6 +8,7 @@ group :development do
 
   gem 'json'
   gem 'rspec', '~> 3.0'
+  gem 'webmock', '~> 3.0'
   gem 'simplecov', '~> 0.20', require: false
 
   gem 'kramdown'
