@@ -56,6 +56,7 @@ gem install cisa-kev
 ```ruby
 gem 'cisa-kev', '~> 0.1'
 ```
+
 ## Copyright
 
 Copyright (c) 2024 Hal Brodigan
