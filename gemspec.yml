@@ -1,0 +1,20 @@
+name: cisa-kev
+summary: A simple library for parsing the CISA KEV catalog
+description: |
+  A simple Ruby library for parsing the CISA KEV (Known Exploited
+  Vulnerabilities) catalog
+license: MIT
+authors: Postmodern
+email: postmodern.mod3@gmail.com
+homepage: https://github.com/postmodern/cisa-kev.rb#readme
+
+metadata:
+  documentation_uri: https://rubydoc.info/gems/cisa-kev
+  source_code_uri:   https://github.com/postmodern/cisa-kev.rb
+  bug_tracker_uri:   https://github.com/postmodern/cisa-kev.rb/issues
+  changelog_uri:     https://github.com/postmodern/cisa-kev.rb/blob/main/ChangeLog.md
+
+required_ruby_version: ">= 3.0.0"
+
+development_dependencies:
+  bundler: ~> 2.0
